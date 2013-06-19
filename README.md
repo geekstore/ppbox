@@ -76,7 +76,7 @@ The intention behind this kind of separation is to provide flexibility for the u
 
 Reference Implementation
 ===================================
-We are working on providing a reference implementation application which would use this framework to process payments of a typical merchant's shopping cart. We will update it soon.
+Here's one sample application that uses this framework to process payments: https://github.com/geekstore/farmersmarket
 
 Contributing
 ===================================
