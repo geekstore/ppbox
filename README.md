@@ -81,7 +81,7 @@ We are working on providing a reference implementation application which would u
 Contributing
 ===================================
 1. Reporting bugs/ feature requests: <br>
-Please report all bugs/feature requests to vaibhav276@yahoo.co.in
+Please report all bugs/feature requests to geekstore77@gmail.com
 
 2. Adding new functionality: <br>
 Please refer to below pages for adding new functionality to this framework: <br>
