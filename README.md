@@ -31,38 +31,38 @@ More specific documentation can be found by navigating inside individual folders
 <table>
 <tr>
 	<td> 1. </td>
-	<td width="500"> <a href = "https://raw.github.com/vaibhav276/ppbox/master/ComponentDiagram.png"> Component Diagram </a> </td>
+	<td width="500"> <a href = "https://raw.github.com/geekstore/ppbox/master/ComponentDiagram.png"> Component Diagram </a> </td>
 </tr>
 <tr>
 	<td> 2. </td>
-	<td> <a href = "https://github.com/vaibhav276/ppbox/tree/master/rest#rest-api"> The REST API </a> </td>
+	<td> <a href = "https://github.com/geekstore/ppbox/tree/master/rest#rest-api"> The REST API </a> </td>
 </tr>
 <tr>
 <tr>
 	<td> 3. </td>
-	<td> <a href = "https://github.com/vaibhav276/ppbox/tree/master/controller/config#config-folder"> Configuration </a> </td>
+	<td> <a href = "https://github.com/geekstore/ppbox/tree/master/controller/config#config-folder"> Configuration </a> </td>
 </tr>
 <tr>
 	<td> 4. </td>
-	<td> <a href = "https://github.com/vaibhav276/ppbox/tree/master/controller/modules/checkout#checkout-module"> Checkout Module <a> </td>
+	<td> <a href = "https://github.com/geekstore/ppbox/tree/master/controller/modules/checkout#checkout-module"> Checkout Module <a> </td>
 </tr>
 <tr>
 	<td></td>
 	<td>
 	<ul>
-		<li> <a href = "https://github.com/vaibhav276/ppbox/tree/master/controller/modules/checkout/creditcard#credit-card-checkout-module"> Credit Card </a> </li>
-		<li> <a href = "https://github.com/vaibhav276/ppbox/tree/master/controller/modules/checkout/email#email-checkout-module"> Email </a></li>
-		<li> <a href = "https://github.com/vaibhav276/ppbox/tree/master/controller/modules/checkout/share2pay#share2pay-checkout-module"> Share2Pay </a></li>
+		<li> <a href = "https://github.com/geekstore/ppbox/tree/master/controller/modules/checkout/creditcard#credit-card-checkout-module"> Credit Card </a> </li>
+		<li> <a href = "https://github.com/geekstore/ppbox/tree/master/controller/modules/checkout/email#email-checkout-module"> Email </a></li>
+		<li> <a href = "https://github.com/geekstore/ppbox/tree/master/controller/modules/checkout/share2pay#share2pay-checkout-module"> Share2Pay </a></li>
 	</ul>
 	</td>
 </tr>
 <tr>
 	<td> 8. </td>
-	<td> <a href = "https://github.com/vaibhav276/ppbox/tree/master/controller/modules/status#status-module"> Status Module <a> </td>
+	<td> <a href = "https://github.com/geekstore/ppbox/tree/master/controller/modules/status#status-module"> Status Module <a> </td>
 </tr>
 <tr>
 	<td> 9. </td>
-	<td> <a href = "https://github.com/vaibhav276/ppbox/tree/master/controller/packages#packages-folder">Packages</a> </td>
+	<td> <a href = "https://github.com/geekstore/ppbox/tree/master/controller/packages#packages-folder">Packages</a> </td>
 </tr>
 </table>
 
@@ -85,8 +85,8 @@ Please report all bugs/feature requests to geekstore77@gmail.com
 
 2. Adding new functionality: <br>
 Please refer to below pages for adding new functionality to this framework: <br>
-* <a href = "https://github.com/vaibhav276/ppbox/tree/master/controller/modules#adding-new-modules">Adding new modules</a> <br>
-* <a href = "https://github.com/vaibhav276/ppbox/tree/master/controller/packages#adding-new-packages">Adding new packages</a> <br>
+* <a href = "https://github.com/geekstore/ppbox/tree/master/controller/modules#adding-new-modules">Adding new modules</a> <br>
+* <a href = "https://github.com/geekstore/ppbox/tree/master/controller/packages#adding-new-packages">Adding new packages</a> <br>
 
 
 Disclaimer
