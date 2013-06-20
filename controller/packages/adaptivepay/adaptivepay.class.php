@@ -435,7 +435,11 @@ class AdaptivePay implements IPayPalCheckout {
 			$this->logger->error( $ErrorMsg);
 			return Util::generateErrResponse("error", ERR_INTERNAL_EXCEPTION);
 		}
+		
 		$redirectUrl=$this->endPointURL."?payKey=".$payKey;
+		$this->logger->debug("Redirect Url:".$redirectUrl);
+		$this->logger->debug("PayKey:".$payKey);
+		$this->logger->debug("TrackingId:".$trackingId);
 		$response= array("payKey" => $payKey,
 			"redirectUrl" => $redirectUrl,
 			"trackingId" => $trackingId);
