@@ -115,8 +115,18 @@ class AdaptivePay implements IPayPalCheckout {
 		$cancelUrl = isset($body["url"]["cancel_url"]) ? urldecode($body["url"]["cancel_url"]) : "";
 
 		// Payee information
-		$tempArray= isset( $body["payee"]["email"]) ? $body["payee"]["email"] : "";
-		$merchantEmails = explode(",",$tempArray);
+		$tempArray1= isset( $body["payee"]["email"]) ? $body["payee"]["email"] : "";
+		//splitting the comma separated payee list 
+		$tempArray2 = explode(",",$tempArray1);
+		//Removing duplicate values in array
+		$tempArray3=array_unique($tempArray2);
+		$merchantEmails=array();
+		//Removing empty strings from array
+		foreach($tempArray3 as $key=>$value) 
+		{
+			if($value!="")
+				array_push($merchantEmails,$value);
+		}
 
 		//Payer Information
 		$inputData["senderEmail"] = isset($body["payer"]["senderEmail"] ) ? $body["payer"]["senderEmail"] : "";
