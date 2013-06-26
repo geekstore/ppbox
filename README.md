@@ -64,6 +64,10 @@ More specific documentation can be found by navigating inside individual folders
 	<td> 9. </td>
 	<td> <a href = "https://github.com/geekstore/ppbox/tree/master/controller/packages#packages-folder">Packages</a> </td>
 </tr>
+<tr>
+	<td> 10. </td>
+	<td> <a href = "https://github.com/geekstore/ppbox/wiki/Troubleshooting">Troubleshooting</a> </td>
+</tr>
 </table>
 
 Terminology
